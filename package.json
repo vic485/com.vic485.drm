@@ -1,0 +1,12 @@
+{
+    "name": "com.vic485.drm",
+    "version": "0.0.1",
+    "displayName": "vic485's Region Lock",
+    "unity": "2019.3",
+    "unityRelease": "14f1",
+    "author": {
+        "name": "Victor (vic485) Fugazzotto",
+        "email": "victorfuga@gmail.com",
+        "url": "https://vic485.xyz"
+    }
+}

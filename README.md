@@ -1,0 +1,2 @@
+﻿# vic485's DRM
+Small system for preventing games from being played outside of their intended region, or keep them from being played in certain regions. This repo is setup as a Unity package which can be cloned in the package manager, however the scripts are free to be used anywhere with modifications to fit the end engine/framework.
